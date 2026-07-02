@@ -130,9 +130,9 @@ outcomes across the year.
   warrant further investigation in a real-world dataset.
 
 - All recorded deaths occurred among Medicare patients. Given that 
-  Medicare primarily covers patients aged 65 and older, this reflects 
+  Medicare primarily covers patients aged 65 and older, this could reflect 
   the intersection of age and severity rather than insurance type 
-  as an independent risk factor.
+  as an independent risk factor or simply a synthetic data artifact, not a real clinical pattern. 
 
 ---
 
