@@ -150,12 +150,12 @@ outcomes across the year.
 ## Files
 | File | Description |
 |------|-------------|
-| `hospital_load_analysis.sql` | Full SQL script: exploration, feature engineering, and views |
-| `Hospital_Load_Outcome_Analysis.pbix` | Power BI report file |
-| `page1-hospital-overview.png` | Report screenshot, Page 1 |
-| `page2-load-vs-outcome.png` | Report screenshot, Page 2 |
-| `page3-department-performance.png` | Report screenshot, Page 3 |
-| `page4-patient-profile.png` | Report screenshot, Page 4 |
+| `Hospital-Load-Outcome-Analysis.sql` | Full SQL script: exploration, feature engineering, and views |
+| `Hospital-Load-Outcome-Analysis.pbix` | Power BI report file |
+| `Hospital-Overview.png` | Report screenshot, Page 1 |
+| `Load vs Outcome Analysis.png` | Report screenshot, Page 2 |
+| `Department Performance.png` | Report screenshot, Page 3 |
+| `Patient Profile.png` | Report screenshot, Page 4 |
 
 ---
 
