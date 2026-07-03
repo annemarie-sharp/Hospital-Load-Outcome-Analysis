@@ -1,5 +1,7 @@
 # Hospital Load vs Outcome Efficiency Analysis
 
+![Report Preview](whole_visual.png)
+
 A SQL and Power BI analysis examining the relationship between hospital 
 admission volume, length of stay, and patient outcomes including 
 mortality and readmission.
